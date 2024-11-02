@@ -12,6 +12,7 @@ int main() {
     cout << "first number: ";
     cin >> num1;
     cout << "econd number: ";
+    cout << "23";
     cin >> num2;
 
     // Calculate the sum of the two numbers
