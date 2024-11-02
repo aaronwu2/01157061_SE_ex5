@@ -12,7 +12,7 @@ int main() {
     cout << "first number: ";
     cin >> num1;
     cout << "econd number: ";
-    cout << "third number: "
+    cout << "third number: ";
     cin >> num2;
 
     // Calculate the sum of the two numbers
